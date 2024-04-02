@@ -57,7 +57,7 @@ const routes=[
 
     //auth page
     {
-        path: '/Login',
+        path: '/login',
         name:'login',
         component:()=>import('@/views/auth/LoginPage.vue'),
         meta: { title: "Login",guest:true },
