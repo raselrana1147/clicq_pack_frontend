@@ -1,7 +1,26 @@
-# Vue 3 + Vite
+# Project Installation Steps
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Step 1
+Clone project from master branch 
 
-## Recommended IDE Setup
+ Open Terminal and run this command
+```sh
+ git clone -b master https://github.com/raselrana1147/clicq_pack_frontend.git
+```
+### Step 2
+Go to project directory 
+```sh 
+cd clicq_pack_frontend
+ ```
+### Step 3
+Install node modules
+```sh
+npm install
+```
+### Step 8
+Run project
+```sh 
+npm run dev
+```
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+### After do these steps you have to install frotend project. Fromtend install processes are given in frontend repository 
