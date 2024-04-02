@@ -8,6 +8,6 @@ import "@/assets/plugins/jqvmap/maps/jquery.vmap.usa.js";
 import "@/assets/plugins/jquery-knob/jquery.knob.min.js";
 import "@/assets/plugins/summernote/summernote-bs4.min.js";
 import "@/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js";
-// import "@/assets/dist/js/adminlte.js";
-// import "@/assets/dist/js/pages/dashboard.js";
+import "@/assets/dist/js/adminlte.js";
+import "@/assets/dist/js/pages/dashboard.js";
 
